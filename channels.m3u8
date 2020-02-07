@@ -1,28 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="La1.TDTChannelsEPG" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalistas",La 1 HD
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalistas",La 1 HD
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 tvg-id="La2.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="Generalistas",La 2 HD
+#EXTINF:-1 tvg-id="La 2 HD" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="Generalistas",La 2 HD
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 tvg-id="Antena3.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/antena3/picture?width=320&height=320" group-title="Generalistas",Antena 3 HD
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-logo="http://graph.facebook.com/antena3/picture?width=320&height=320" group-title="Generalistas",Antena 3 HD
 https://livestartover.atresmedia.com/antena3/master.m3u8
-#EXTINF:-1 tvg-id="Telecinco.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Generalistas",Telecinco HD
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320" group-title="Generalistas",Telecinco HD
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="Cuatro.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="Generalistas",Cuatro HD
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-logo="http://graph.facebook.com/cuatro/picture?width=320&height=320" group-title="Generalistas",Cuatro HD
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
-#EXTINF:-1 tvg-id="LaSexta.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="Generalistas",laSexta HD
+#EXTINF:-1 tvg-id="LaSexta HD" tvg-logo="http://graph.facebook.com/laSexta/picture?width=320&height=320" group-title="Generalistas",laSexta HD
 https://livestartover.atresmedia.com/lasexta/master.m3u8
-#EXTINF:-1 tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="Internacional",TVG América
+#EXTINF:-1 tvg-id="TVGA" tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="Internacional",TVG América
 http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="Neox.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/neox/picture?width=320&height=320" group-title="Generalistas",Neox HD
+#EXTINF:-1 tvg-id="Neox" tvg-logo="http://graph.facebook.com/neox/picture?width=320&height=320" group-title="Generalistas",Neox HD
 https://livestartover.atresmedia.com/geoneox/master.m3u8
-#EXTINF:-1 tvg-id="Nova.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/novatdt/picture?width=320&height=320" group-title="Generalistas",Nova HD
+#EXTINF:-1 tvg-id="Nova" tvg-logo="http://graph.facebook.com/novatdt/picture?width=320&height=320" group-title="Generalistas",Nova HD
 https://livestartover.atresmedia.com/geonova/master.m3u8
-#EXTINF:-1 tvg-id="Divinity.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="Generalistas",Divinity HD
+#EXTINF:-1 tvg-id="Divinity" tvg-logo="http://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="Generalistas",Divinity HD
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="Cine y Series",Pasiones
-https://tecnoplay.club/plist/principal.php?c=122&f=.m3u8
+https://tecnoplay.club/track/principal.php?c=121&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/250px-H%26h_Logo.svg.png" group-title="Cultura",Discovery HH
-https://tecnoplay.club/plist/principal.php?c=40&f=.m3u8
+https://tecnoplay.club/track/principal.php?c=40&f=.m3u8
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="Cultura",Discovery Channel
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93271
 #EXTINF:-1 tvg-id="XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/245px-XTRM_Espa%C3%B1a.png" group-title="Cine y Series",Xtrm HD

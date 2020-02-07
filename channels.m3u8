@@ -13,6 +13,8 @@ https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
 https://livestartover.atresmedia.com/lasexta/master.m3u8
 #EXTINF:-1 tvg-id="TVGA" tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="Internacional",TVG América
 http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="#0.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/0_Movistar%2B.svg/100px-0_Movistar%2B.svg.png" group-title="Internacional",#0 HD
+http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93146
 #EXTINF:-1 tvg-id="Neox" tvg-logo="http://graph.facebook.com/neox/picture?width=320&height=320" group-title="Generalistas",Neox HD
 https://livestartover.atresmedia.com/geoneox/master.m3u8
 #EXTINF:-1 tvg-id="Nova" tvg-logo="http://graph.facebook.com/novatdt/picture?width=320&height=320" group-title="Generalistas",Nova HD
@@ -23,6 +25,8 @@ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 https://tecnoplay.club/track/principal.php?c=122&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/250px-H%26h_Logo.svg.png" group-title="Cultura",Discovery HH
 https://tecnoplay.club/track/principal.php?c=40&f=.m3u8
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/AMC_Networks_International_Southern_Europe.svg/245px-AMC_Networks_International_Southern_Europe.svg.png" group-title="Cultura",Canal Cocina
+http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/816
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="Cultura",Discovery Channel
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93271
 #EXTINF:-1 tvg-id="XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/245px-XTRM_Espa%C3%B1a.png" group-title="Cine y Series",Xtrm HD
@@ -33,3 +37,5 @@ http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93208
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93254
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Locomotion.png/250px-Locomotion.png" group-title="Infantiles",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/ETC_2016-actual.png/200px-ETC_2016-actual.png" group-title="Series",ETC TV
+http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/1299

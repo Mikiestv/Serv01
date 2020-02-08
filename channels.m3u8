@@ -21,6 +21,8 @@ https://livestartover.atresmedia.com/geoneox/master.m3u8
 https://livestartover.atresmedia.com/geonova/master.m3u8
 #EXTINF:-1 tvg-id="Divinity" tvg-logo="http://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="Generalistas",Divinity HD
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/DKISS_2019_logo.svg/150px-DKISS_2019_logo.svg.png" group-title="Generalistas",Dkiss
+http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93238
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="Cine y Series",Pasiones
 https://tecnoplay.club/track/principal.php?c=122&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/250px-H%26h_Logo.svg.png" group-title="Cultura",Discovery HH

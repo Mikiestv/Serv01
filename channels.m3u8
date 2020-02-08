@@ -11,10 +11,12 @@ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 https://tecnoplay.club/track/principal.php?c=122&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/250px-H%26h_Logo.svg.png" group-title="Cultura",Discovery HH
 https://tecnoplay.club/track/principal.php?c=40&f=.m3u8
-#EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/AMC_Networks_International_Southern_Europe.svg/245px-AMC_Networks_International_Southern_Europe.svg.png" group-title="Cultura",Canal Cocina
-http://interlatins.com:48000/Wv5ieM84Ef/j4JPziToff/816
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcocina.jpg" group-title="Cultura",Canal Cocina
+http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93248
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="Cultura",Discovery Channel
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93271
+#EXTINF:-1 tvg-id="COSMO HD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcocina.jpg" group-title="Cultura",COSMOPOLITAN HD
+http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/109742
 #EXTINF:-1 tvg-id="XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XTRM_Espa%C3%B1a.png/245px-XTRM_Espa%C3%B1a.png" group-title="Cine y Series",Xtrm HD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93207
 #EXTINF:-1 tvg-id="Somos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Somos.png/245px-Somos.png" group-title="Cine",Somos HD

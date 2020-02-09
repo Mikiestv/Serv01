@@ -8,14 +8,14 @@ https://livestartover.atresmedia.com/geonova/master.m3u8
 #EXTINF:-1 tvg-id="Divinity" tvg-logo="http://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="Generalistas",Divinity HD
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="Series",Pasiones
-https://tecnoplay.club/track/principal.php?c=122&f=.m3u8
+https://tecnoplay.club/mix/principal.php?c=122&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/250px-H%26h_Logo.svg.png" group-title="Cultura",Discovery HH
-https://tecnoplay.club/track/principal.php?c=40&f=.m3u8
+https://tecnoplay.club/mix/principal.php?c=40&f=.m3u8
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcocina.jpg" group-title="Cultura",Canal Cocina
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93248
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="Cultura",Discovery Channel
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93271
-#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/200px-FOX_wordmark.svg.png" group-title="Deportes",FOX HD
+#EXTINF:-1 tvg-id="FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/200px-FOX_wordmark.svg.png" group-title="Cine y Series",FOX HD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93218
 #EXTINF:-1 tvg-id="COSMO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/130px-Cosmo_TV_logo.svg.png" group-title="Cine y Series",COSMOPOLITAN HD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/109742
@@ -27,5 +27,11 @@ http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93208
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93254
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Locomotion.png/250px-Locomotion.png" group-title="Infantiles",Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-id="VAMOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/250px-Vamos.svg.png" group-title="Deportes",Vamos Bar HD
+http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93134
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/100px-DAZN_LogoInBox_black.svg.png" group-title="Deportes",DAZN 1
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/137648
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/175px-Movistar_LaLiga.svg.png" group-title="Deportes",Movistar LaLiga HD
+http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/138439
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Espa%C3%B1ol.svg/125px-CNN_en_Espa%C3%B1ol.svg.png" group-title="Informacion",CNN en Espanol
+https://tecnoplay.club/mix/principal.php?c=14&f=.m3u8

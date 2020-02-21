@@ -8,9 +8,9 @@ https://livestartover.atresmedia.com/geonova/master.m3u8
 #EXTINF:-1 tvg-id="Divinity" tvg-logo="http://graph.facebook.com/divinityes/picture?width=320&height=320" group-title="Generalistas",Divinity HD
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/125px-Pasiones_Tv_logo.svg.png" group-title="Series",Pasiones
-https://tecnoplay.club/mix/principal.php?c=122&f=.m3u8
+https://tecnoplay.club/zip/principal.php?c=122&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/250px-H%26h_Logo.svg.png" group-title="Cultura",Discovery HH
-https://tecnoplay.club/mix/principal.php?c=40&f=.m3u8
+https://tecnoplay.club/zip/principal.php?c=40&f=.m3u8
 #EXTINF:-1 tvg-id="CANAL COCINA" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canalcocina.jpg" group-title="Cultura",Canal Cocina
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93248
 #EXTINF:-1 tvg-id="DISCOVERY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="Cultura",Discovery Channel
@@ -36,7 +36,7 @@ http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/138439
 #EXTINF:-1 tvg-id="M.FORMULA1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/200px-Movistar_Formula_1.svg.png" group-title="Deportes",Movistar Formula 1 HD
 http://iptvtool.es:9977/tJWUQG8Swz/7xBSpzo2RN/93372
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Espa%C3%B1ol.svg/125px-CNN_en_Espa%C3%B1ol.svg.png" group-title="Informacion",CNN en Espanol
-https://tecnoplay.club/mix/principal.php?c=14&f=.m3u8
+https://tecnoplay.club/zip/principal.php?c=14&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5cf96c0222df39f1a338d163/logo.png" group-title="Series",TV NOVELAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96c0222df39f1a338d163/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=019fc7cc-c7c3-484f-bf0d-2bd6bd4d2c6d&deviceLat=40.7308&deviceLon=-73.9975&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.87&includeExtendedEvents=false&sid=6693b03e-5583-4538-8a2e-de6eca008005&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5cf96cc422df39f1a338d165/logo.png" group-title="Series",TELENOVELAS CLASICAS

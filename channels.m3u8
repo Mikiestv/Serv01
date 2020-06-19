@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/assets/images/default/channel.id-featured-default.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Promo",Pluto TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e793a7cfbdf780007f7eb75/master.m3u8?advertisingId=&appName=web&appVersion=5.3.1-91f8d7651af9fa1f4cc5f933293a8da8d3930881&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=5ba79b14-71a7-4b13-96af-53950c419708&deviceLat=16.7597&deviceLon=-93.1131&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.138&includeExtendedEvents=false&marketingRegion=VE&sid=66933d93-285c-44f5-a4be-bd1db7adf983&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png?w=117" group-title="Infantil",nick Latino
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=5.3.1-91f8d7651af9fa1f4cc5f933293a8da8d3930881&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=5ba79b14-71a7-4b13-96af-53950c419708&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.138&includeExtendedEvents=false&marketingRegion=US&sid=7857f164-ddec-4947-a1b1-55f9be646b87&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Anime",ANIME Pluto tv
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=4461a468-3640-4068-b756-a98c86cc62a4&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=3cd27ed0-224b-489a-8809-6754f5f055fb&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.crtvg.es/files/single/20170619205043_CanalInfantil.png" group-title="Infantil",Xabarin Club
-http://infantil-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Deporte",DESPORTES Pluto tv
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=4461a468-3640-4068-b756-a98c86cc62a4&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=3cd27ed0-224b-489a-8809-6754f5f055fb&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="" tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-1.png" group-title="Deporte",FIGHT TIME
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalista",La 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_0650_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sincroguia.tv/uploads/images/0/j/p/0.jpg" group-title="Deportes",#0
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/index_0650_av-p.m3u8?sd=10&rebase=on

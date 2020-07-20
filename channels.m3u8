@@ -19,3 +19,5 @@ https://infantil-crtvg.flumotion.com/chunks.m3u8
 https://directo.atresmedia.com/1595262353_73d4a6ba4188fedb6c8d66280d9cb035d9aff627/geoneox/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="TDT",Nova
 https://directo.atresmedia.com/1595262448_315776f2b44c190af973101e319b9393cd1549b9/geonova/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/5cdb4b/plt/840_560.jpg" group-title="Series",Novelas - Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=123&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0

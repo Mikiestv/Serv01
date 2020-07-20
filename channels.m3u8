@@ -1,1 +1,25 @@
-dsegnjk
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png" group-title="TDT",La 1
+https://rtvelivestream-lvlt.rtve.es/la1_dvr_2750.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png" group-title="TDT",La 2
+https://rtvelivestream-lvlt.rtve.es/la2_dvr_4000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="TDT",Antena 3
+https://directo.atresmedia.com/1595261748_47dc3db29fc1c0556cc75eeff2a65fa5f4c76fde/antena3/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cuatro_logo.svg/1024px-Cuatro_logo.svg.png" group-title="TDT",Cuatro
+https://live.mitele.es/hls/live/2004102/cuatro/master.m3u8?hdnts=st=1595235243~exp=1595249643~acl=/*~hmac=36bed8b2f0bfe54c44958b0c7a3d4730d32cbbacd4c0e217dd12a7a40776e011
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_Telecinco.svg/1200px-Logo_Telecinco.svg.png" group-title="TDT",Telecinco
+https://live.mitele.es/hls/live/2004101/telecinco/master.m3u8?hdnts=st=1595235376~exp=1595249776~acl=/*~hmac=bbc64569c233dd0ed54a6547842db29eb77ec2374e1beab2b0597be71adc15e1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/LaSextaOldLogo.png" group-title="TDT",LaSexta
+https://directo.atresmedia.com/1595261988_0efa421be7be15f65ee56a1f4a5d2efdc3101d85/lasexta/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="TDT",TVG
+https://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.laregion.es/asset/zoomcrop,1366,800,center,center//media/laregion/images/2014/12/04/2014120414392467362.jpg" group-title="Infantil",Xabarin Club
+https://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/5cdb4b/plt/840_560.jpg" group-title="Anime",Anime - Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=123&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.brandemia.org/wp-content/uploads/2011/07/neox_principal_logo.jpg" group-title="TDT",Neox
+https://directo.atresmedia.com/1595262353_73d4a6ba4188fedb6c8d66280d9cb035d9aff627/geoneox/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="TDT",Nova
+https://directo.atresmedia.com/1595262448_315776f2b44c190af973101e319b9393cd1549b9/geonova/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/5cdb4b/plt/840_560.jpg" group-title="Series",Novelas - Pluto TV
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=123&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0

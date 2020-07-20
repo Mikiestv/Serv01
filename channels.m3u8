@@ -13,3 +13,9 @@ https://live.mitele.es/hls/live/2004102/cuatro/bitrate_4.m3u8
 https://directo.atresmedia.com/1595261988_0efa421be7be15f65ee56a1f4a5d2efdc3101d85/lasexta/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="TDT",TVG
 https://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.laregion.es/asset/zoomcrop,1366,800,center,center//media/laregion/images/2014/12/04/2014120414392467362.jpg" group-title="Infantil",Xabarin Club
+https://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.brandemia.org/wp-content/uploads/2011/07/neox_principal_logo.jpg" group-title="TDT",Neox
+https://directo.atresmedia.com/1595262353_73d4a6ba4188fedb6c8d66280d9cb035d9aff627/geoneox/bitrate_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="TDT",Nova
+https://directo.atresmedia.com/1595262448_315776f2b44c190af973101e319b9393cd1549b9/geonova/bitrate_4.m3u8

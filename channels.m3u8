@@ -25,3 +25,5 @@ https://directo.atresmedia.com/1595262448_315776f2b44c190af973101e319b9393cd1549
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=123&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Movistar_Formula_1.svg" group-title="Series",M. Formula 1
 https://cdo0.dailysport.pw/25/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Movistar_LaLiga.svg" group-title="Series",M. LALiga
+https://cdo0.dailysport.pw/1/1.m3u8

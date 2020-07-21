@@ -25,6 +25,8 @@ https://directo.atresmedia.com/1595368078_f55565d146feaffeeadee7b593e42536fd8911
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=123&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.freepng.es/20180607/rhb/kisspng-discovery-channel-television-channel-television-sh-discovery-channel-5b191fa195c406.6428690115283731536135.jpg" group-title="Series",Discovery Channel
 https://ul.cdn946.net:8443/hls/oebutvxz.m3u8?s=4iM1nH0ziBxHuYk-znQD4g&e=1595359981
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/85fef2/logo-discovery-max/1366_2000.jpg" group-title="Series",DMAX
+https://ul.cdn946.net:8443/hls/fsgll1.m3u8?s=pyo3ceKZ4lVi3OUtWXfF0A&e=1595361632
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Series",NAT GEO WILL
 https://ul.cdn946.net:8443/hls/04atwq5.m3u8?s=S3I1IE9Cflfvu9WWbhLKKQ&e=1595359615
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Movistar_Formula_1.svg" group-title="Series",M. Formula 1

@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TDT",Telemundo New York
 https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.doyoumedia.es/wp-content/uploads/2017/09/la-8-mediterraeo-3.jpg" group-title="TDT",La 8 Mediterraneo
-https://live-edge-lon-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.teleblanca.com/img/tlnovelas.png" group-title="TDT",TLNOVELAS
+https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CrMEY0tDymiM-0BDTclFp2tUESuELlVl-JSUV3feCRSLvc6O1svJKL7kwdgZ-8sdW1VWgp2dV1Iyp_qztvYO2xuy_mfxJHufTRwcx4cY_DCMaUpz3oL1M98qSx6p4UukegWnMF01C8ZZpVFTle4bhwqtqhBIaxgol2uPyO_WWzX2rp10PzT7YzsqmD-V6tpsBWmri7dYxU_r2XCrKdd8DsxX8jYfTbNKxDl62i1_tuRMlAubCAX_LnQLRKbgcDFdcau7qtyJM62KrNNikKVXJTuOfaHbiyzrPEm6JBbUIL471RPCmiipkvkvzrnKNW570Kvh7sGBp85_UWjsorWObx9y_lSoWtq_tB3M4ElvkHU9M1FhiePBFY05718afWRl4t7N-eC30zrUWalIny0m2dkAIFhdWkn2FiNVAyNROTawIQmf5XLD2YgiQmF9Gv2XHuMhvAel2JZsA3o6V_XOoBNQ6qrBq0lzbU8JyYrOVIhWVbhs0eZjuQiXmEAXH5DZ-hiLO1omyC1MCzizvXGutR6HAxEdI3yPrQdI6Tj48gbjvbj6qhr9uSawpXaiAyWpVaP7a-lnqLJcovBFeprcQ0dJLRpKN8YYbzUtrd5-rAhk3NrZdwIwbeCAFF313GG5kuFHfOnOeNZI7SkmqlmIVfDyRy7Mb6JsrN6ROgbvjopbXCTnwW5oBqLlKP4buhKKzS3tjb7IZAdV_ZfTIGDK0GdYKQFpD4iKDbRr1h_LVXV9Hq9m7GQSECXFAwQ_-ZVNA6FHsjUvJ6oaDGl_7F6mVoQYkAW63Q.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="TDT",Canal de las Estrellas
+http://89.105.194.59:25461/live/1mx$5$!KD/1mx$5$!KD/36.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://uies.cgtn.com/w/images/icon/logo@3x.png" group-title="TDT",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="TDT",teleSUR

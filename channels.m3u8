@@ -1,35 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png" group-title="TDT",La 1
-https://rtvelivestream-lvlt.rtve.es/la1_dvr_2750.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png" group-title="TDT",La 2
-https://rtvelivestream-lvlt.rtve.es/la2_dvr_4000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="TDT",Antena 3
-https://ul.cdn946.net:8443/hls/le870ahdxekxml.m3u8?s=A5EbxHyUsadExrbj1Ap4mQ&e=1595360496
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cuatro_logo.svg/1024px-Cuatro_logo.svg.png" group-title="TDT",Cuatro
-https://ul.cdn946.net:8443/hls/tgfvlykts.m3u8?s=3hFzF2h7Cfi_pGMIcoK2OQ&e=1595360564
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_Telecinco.svg/1200px-Logo_Telecinco.svg.png" group-title="TDT",Telecinco
-https://ul.cdn946.net:8443/hls/kl20i8bbrlg.m3u8?s=zG-gWSlwxSiNIsGYkd1N1A&e=1595360611
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/LaSextaOldLogo.png" group-title="TDT",LaSexta
-https://ul.cdn946.net:8443/hls/57wo4o3p18csy.m3u8?s=32cfE2Vb-D-qYyNydJut6Q&e=1595360643
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="TDT",TVG
-https://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.laregion.es/asset/zoomcrop,1366,800,center,center//media/laregion/images/2014/12/04/2014120414392467362.jpg" group-title="Infantil",Xabarin Club
-https://infantil-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/5cdb4b/plt/840_560.jpg" group-title="Anime",Anime - Pluto TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png?w=117" group-title="Anime",Anime - Pluto TV
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=123&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.brandemia.org/wp-content/uploads/2011/07/neox_principal_logo.jpg" group-title="TDT",Neox
-https://ul.cdn946.net:8443/hls/58tn3s5rw.m3u8?s=3qJ8hdbVtF1GXp7D9P2XXg&e=1595360683
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="TDT",*Nova*
-https://directo.atresmedia.com/1595368078_f55565d146feaffeeadee7b593e42536fd89115b/geonova/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/5cdb4b/plt/840_560.jpg" group-title="Series",Novelas - Pluto TV
-https://stitcher.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=0&deviceMake=0&deviceModel=0&sid=123&deviceId=0&deviceVersion=0&appVersion=0&deviceDNT=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.freepng.es/20180607/rhb/kisspng-discovery-channel-television-channel-television-sh-discovery-channel-5b191fa195c406.6428690115283731536135.jpg" group-title="Series",Discovery Channel
-https://ul.cdn946.net:8443/hls/oebutvxz.m3u8?s=4iM1nH0ziBxHuYk-znQD4g&e=1595359981
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/85fef2/logo-discovery-max/1366_2000.jpg" group-title="Series",DMAX
-https://ul.cdn946.net:8443/hls/fsgll1.m3u8?s=pyo3ceKZ4lVi3OUtWXfF0A&e=1595361632
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Series",NAT GEO WILL
-https://ul.cdn946.net:8443/hls/04atwq5.m3u8?s=S3I1IE9Cflfvu9WWbhLKKQ&e=1595359615
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Movistar_Formula_1.svg" group-title="Series",M. Formula 1
-https://ul.cdn946.net:8443/hls/v4jny.m3u8?s=4MXlsbg-7Ch9LD8Ru2LXMQ&e=1595360769
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Movistar_LaLiga.svg" group-title="Series",M. LALiga
-https://ul.cdn946.net:8443/hls/qhvk62.m3u8?s=NAka-4FOAlhq7laXiRuugg&e=1595360819
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Anime",Anime Accion - Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/3063648/playlist.m3u8?terminate=false&deviceId=3bbad65f-40db-4c52-b014-d3b0b5e252b9&deviceVersion=83.0.4103.116&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&deviceType=web&deviceMake=Chrome&sid=24926f87-eaa4-11ea-a3e7-0242ac110002&advertisingId=&deviceLat=20.6668&deviceLon=-103.3926&deviceDNT=false&deviceModel=Chrome&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=&includeExtendedEvents=false

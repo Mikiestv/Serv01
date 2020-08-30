@@ -5,6 +5,8 @@ https://dcunilive72-lh.akamaihd.net/i/dclive_1@800535/index_150_av-p.m3u8
 https://live-edge-lon-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://uies.cgtn.com/w/images/icon/logo@3x.png" group-title="TDT",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png" group-title="TDT",teleSUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png?w=117" group-title="Anime",Anime - Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=3bbad65f-40db-4c52-b014-d3b0b5e252b9&deviceLat=16.7597&deviceLon=-93.1131&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=85.0.4183.83&includeExtendedEvents=false&marketingRegion=VE&sid=35bcd510-eaa8-11ea-8fe3-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Anime",Locomotion TV

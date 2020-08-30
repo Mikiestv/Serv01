@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_La_7.svg/998px-Logo_La_7.svg.png" group-title="TDT",7TV Andalucia
-https://dcunilive72-lh.akamaihd.net/i/dclive_1@800535/index_150_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TDT",Telemundo New York
+https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_3_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.doyoumedia.es/wp-content/uploads/2017/09/la-8-mediterraeo-3.jpg" group-title="TDT",La 8 Mediterraneo
 https://live-edge-lon-1.cdn.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/live-1200/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://uies.cgtn.com/w/images/icon/logo@3x.png" group-title="TDT",CGTN Español

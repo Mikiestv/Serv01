@@ -3,3 +3,5 @@
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Anime",Locomotion TV
 http://toonxtv.net/hls/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://icdn4.digitaltrends.com/image/digitaltrends_es/logo-pluto-2020-382x215.jpg" group-title="Anime",Anime - Pluto Tv
+http://photocall.tv/r8Vd/pl?ch=anime_la

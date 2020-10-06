@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://uies.cgtn.com/w/images/icon/logo@3x.png" group-title="Noticias",CGTN Español
+#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/divinityes/picture?width=200&height=200" group-title="Generalistas",Divinity HD
+https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://uies.cgtn.com/w/images/icon/logo@3x.png" group-title="Generalistas",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Anime",Locomotion TV
 http://toonxtv.net/hls/loco_ch/stream.m3u8

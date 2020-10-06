@@ -3,3 +3,7 @@
 https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Anime",Locomotion TV
 http://toonxtv.net/hls/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="LATINOS",Pasiones
+http://tvpremiumhd.club/lista-gratuita/211505/tv/live.php?id=53549
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="LATINOS",Telenovelas
+http://tvpremiumhd.club/lista-gratuita/211505/tv/live.php?id=1286

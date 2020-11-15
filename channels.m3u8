@@ -1,11 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/divinityes/picture?width=200&height=200" group-title="Generalistas",Divinity HD
-https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://uies.cgtn.com/w/images/icon/logo@3x.png" group-title="Generalistas",CGTN Español
-https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Noticias",Negocios TV
+http://play03.gooru.live/playnegocios/_definst_/5646-1603313320000/chunklist_w1276113426.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Anime",Locomotion TV
 http://toonxtv.net/hls/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://kanadetv.com/imgs/loco/logo_white.png" group-title="Anime",Kanade TV
+http://45.77.154.172:8080/hls/show.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Anime",Anime Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=44fc&deviceDNT=0&deviceModel=0
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Anime",Accion Anime Pluto TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=a66c&deviceDNT=0&deviceModel=0
 #EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="Galicia",Xabarin Club
 https://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/clubsuper3/picture?width=200&height=200" group-title="Cataluña",Super3 -
-https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist_DVR.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",Novelas
+https://unidfpclnlds166.akamaized.net/linear/hls/pa/event/sFLxy90WQy2Eku6hjhqlYQ/stream/060e22bb-93a8-4c35-af62-3f0c5bc03baf:BRU/variant/c8b5b610b6124af31b3c5a8c25a63e7e/bandwidth/4500000.m3u8?hdntl=exp=1605554220~acl=*~id=6334d754-7b4b-4872-8cc6-2d84deaa153b~data=hdntl~hmac=2398318a3c5c1d739c8b9c6b5ff885073c9b4bd0f45e530c12b42a9923a4e1ca
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",Univision
+https://unidfpclnlds151.akamaized.net/linear/hls/pa/event/OB8_g3B_Th2LAr1AVmM4Mw/stream/b21a1595-ccde-411e-9afe-c690ac66f7c3:BRU/variant/9d3844c067b711bd13eb0ee6565b5a2b/bandwidth/4500000.m3u8?hdntl=exp=1605554555~acl=*~id=c2596e42-117e-4118-a092-45c8e19d9987~data=hdntl~hmac=8f40894776331458248af5337ec4dbf6aa41f6867c477cbe16c21403f5d2df47
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",UniMas
+https://unidfpclnlds158.akamaized.net/linear/hls/pa/event/fQCAqHLkSPeYW0FmDm7aOQ/stream/3cad1386-52da-4a60-af2a-ee7bedde014c:BRU/variant/a749b8a7963b68d5048167e833d55dc5/bandwidth/4500000.m3u8?hdntl=exp=1605554618~acl=*~id=b138b1db-6c1b-402a-beb1-ed9cc9719ef8~data=hdntl~hmac=b1ac603c20635187c96b29329d44683127787c434a26549380ee3ccb3b57605c
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",Telemundo 47 New York
+https://wnjulive-lh.akamaihd.net/i/WNJU_LIVE1@183615/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",KBS World
+http://world.gscdn.kbs.co.kr/world-b/world-b_sd.m3u8?Expires=1605641891&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dvcmxkLmdzY2RuLmticy5jby5rci93b3JsZC1iL3dvcmxkLWJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwNTY0MTg5MX19fV19&Signature=A87~zZr65kP2utoPlDHF42k~LZoTzuiF5SC78Wj0Y7-Tz4LX6vf69le-ASlc9g5YQhuzMH89ZIxmh~~9ldaM2YloM45BiZbpTEVEQgBazvGpgCYQ1dyJycDuvsjGEZYCiATWF5CqWb2-F1JhavrW44BkQSUiJMy4-hO0lYuNsyjFCg5hEVOQXcTqOIrXjCJ99vOx-ipe~VJO9mcf96BsCx5oOU2kWownT2VDakyxzGRboT4B7H-9PK0jpl0yFSyJLUxgiBe0YqbuIF5JcHXT08Df2NmXIjHUQuXxGt5wmjLbI4aC-q4JkotJdoocSEq5D9kdrFNDSoJ85VTWVeLxpQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",KBS Drama
+http://kbsndrama.gscdn.kbs.co.kr/kbsndrama-b/kbsndrama-b_sd.m3u8?Expires=1605642197&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25kcmFtYS5nc2Nkbi5rYnMuY28ua3Iva2JzbmRyYW1hLWIva2JzbmRyYW1hLWJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwNTY0MjE5N319fV19&Signature=W-2EpTyWODEiyrFjiVh3xZqc1L0~h534N~DZdFs4LFKNv2iw-vWN0PVo80DjZKebBZ642wtnsvCFU0Yz4nfrlPGy8unSRnm3Da~3SlK7g8dhlHBOzRwr1GupcNsctl53ZAsVezJ1JGeEho0zoI4FhZRUgAAN5u5m2jsoEQOFDc~Gp6v8A5WZhuaEDcZM3KpCs~uI4PIudr8xbssgmzK4B9zPZ6je~WkaOCX5cS9XC~iG7sqkckY8-2LJFhslHw0SIKfOuDTMlzmR15Hq6f00FPTtRsBFeqsJ6S6oQXn4hsD2UjMd-WElci7dlcNlaZKx60DSfQE4843CBOwFPZKzXA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA

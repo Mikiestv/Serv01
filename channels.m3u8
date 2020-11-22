@@ -13,6 +13,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007
 https://infantil-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",LifeTV
 http://media.profesionalhosting.com:1935/8201/8201/chunklist_w282539711.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",MediaTV
+http://media.profesionalhosting.com:1935/8175/8175/chunklist_w1269516890.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Local",Televigo
 http://95.216.150.122:1935/gcm4/gcm4/chunklist_w1535974823.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",Telemundo 47 New York

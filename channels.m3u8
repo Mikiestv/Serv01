@@ -21,3 +21,9 @@ https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&reba
 http://world.gscdn.kbs.co.kr/world-b/world-b_sd.m3u8?Expires=1606212774&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dvcmxkLmdzY2RuLmticy5jby5rci93b3JsZC1iL3dvcmxkLWJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwNjIxMjc3NH19fV19&Signature=dVYNdJjesnYnMULnRCFTdV7fb2gfxlvfOgWrH4SJRmFSRfaOKzUk~TgbGFizJUe4XG5lU4fZUjaBf1SYfJMUcxn9GDuggaNKHnHxqv-DRohnYyAdyLl2Pq7LzXSpjXVyZUfzJOX~HwOjSDC~fvAAMYCgHds5cAnp79OutrMlXV0JSA~E~1ainN04TwDyLqeLFKf~qD8GIl2ZgEINivs6B5CthPo28btRmAaxVhSUd4-tuamOJyUc-Npiw3UerjGTcaTrq0Bqbkf-xJCTziMZNshV2ra-iCcYBTdc9xejDlqyjvUTvm7zVGBpKVzwfilVzC4mCTpmm2-mnEjycU1~8Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",KBS Drama
 http://kbsndrama.gscdn.kbs.co.kr/kbsndrama-b/kbsndrama-b_sd.m3u8?Expires=1606212851&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25kcmFtYS5nc2Nkbi5rYnMuY28ua3Iva2JzbmRyYW1hLWIva2JzbmRyYW1hLWJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwNjIxMjg1MX19fV19&Signature=bWZD9edsDv28RgPxzM7wY4AOFnWaVaBznq7Rh8VPpON7PhWYeH7sqYgK3fNJCz42wKDIZ1fUlZePskLZ6kuQR41HgMfM3blFgNDvuCe5AWPBVcDLGaW-lLf6NWKLNuSdKB2U5ZpJEgQL3bA6pfwJ41eiBHYQdIFWZbE3J0GNocLAqEv2bcjdKYV9zqhmqqugHgzuiEYciI7dTvosRDQxMQvrGUbMEtHv3MKr4zuytMOOvxMJ8Tuq84dnE5PTslxDhx64BRzmL15gz18vRcwxtmpfYuAHyg2C8wKqDQbhSxy3d~L9cuAU7mAZmWHiRBPD0dnMZINs7Z3ruY6lnmJrsg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Caza",Cazavision
+https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Noticias",France 24 Español
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Noticias",DW Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on

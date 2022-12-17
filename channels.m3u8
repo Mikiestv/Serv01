@@ -1,31 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Noticias",Negocios TV
-http://play03.gooru.live/playnegocios/_definst_/5646-1603313320000/chunklist_w1276113426.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://locomotiontv.com/imgs/loco/logo_white.png" group-title="Anime",Locomotion TV
-http://toonxtv.net/hls/loco_ch/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://kanadetv.com/imgs/loco/logo_white.png" group-title="Anime",Kanade TV
-http://45.77.154.172:8080/hls/show.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Anime",Anime Pluto TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=44fc&deviceDNT=0&deviceModel=0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Anime",Accion Anime Pluto TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=a66c&deviceDNT=0&deviceModel=0
-#EXTINF:-1 tvg-id="" tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="Galicia",Xabarin Club
-https://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",LifeTV
-http://media.profesionalhosting.com:1935/8201/8201/chunklist_w282539711.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",MediaTV
-http://media.profesionalhosting.com:1935/8175/8175/chunklist_w1269516890.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Local",Televigo
-http://95.216.150.122:1935/gcm4/gcm4/chunklist_w1535974823.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",Telemundo 47 New York
-https://wmaqlive-f.akamaihd.net/i/wmaqb1_1@24420/index_1286_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",KBS World
-http://world.gscdn.kbs.co.kr/world-b/world-b_sd.m3u8?Expires=1606212774&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL3dvcmxkLmdzY2RuLmticy5jby5rci93b3JsZC1iL3dvcmxkLWJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwNjIxMjc3NH19fV19&Signature=dVYNdJjesnYnMULnRCFTdV7fb2gfxlvfOgWrH4SJRmFSRfaOKzUk~TgbGFizJUe4XG5lU4fZUjaBf1SYfJMUcxn9GDuggaNKHnHxqv-DRohnYyAdyLl2Pq7LzXSpjXVyZUfzJOX~HwOjSDC~fvAAMYCgHds5cAnp79OutrMlXV0JSA~E~1ainN04TwDyLqeLFKf~qD8GIl2ZgEINivs6B5CthPo28btRmAaxVhSUd4-tuamOJyUc-Npiw3UerjGTcaTrq0Bqbkf-xJCTziMZNshV2ra-iCcYBTdc9xejDlqyjvUTvm7zVGBpKVzwfilVzC4mCTpmm2-mnEjycU1~8Q__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",KBS Drama
-http://kbsndrama.gscdn.kbs.co.kr/kbsndrama-b/kbsndrama-b_sd.m3u8?Expires=1606212851&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cDovL2tic25kcmFtYS5nc2Nkbi5rYnMuY28ua3Iva2JzbmRyYW1hLWIva2JzbmRyYW1hLWJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYwNjIxMjg1MX19fV19&Signature=bWZD9edsDv28RgPxzM7wY4AOFnWaVaBznq7Rh8VPpON7PhWYeH7sqYgK3fNJCz42wKDIZ1fUlZePskLZ6kuQR41HgMfM3blFgNDvuCe5AWPBVcDLGaW-lLf6NWKLNuSdKB2U5ZpJEgQL3bA6pfwJ41eiBHYQdIFWZbE3J0GNocLAqEv2bcjdKYV9zqhmqqugHgzuiEYciI7dTvosRDQxMQvrGUbMEtHv3MKr4zuytMOOvxMJ8Tuq84dnE5PTslxDhx64BRzmL15gz18vRcwxtmpfYuAHyg2C8wKqDQbhSxy3d~L9cuAU7mAZmWHiRBPD0dnMZINs7Z3ruY6lnmJrsg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Caza",Cazavision
-https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Noticias",France 24 Español
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Noticias",DW Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Generalista",La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Generalista",La 2
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Generalista",Antena 3
+https://atres-live.atresmedia.com/92dfe6c6888dac52102e11f3bb5e3c1ec2af7435_ES_1671265654_1671294394/h264/live/antena3/master.m3u8

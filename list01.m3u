@@ -1,3 +1,4 @@
 #EXTM3U
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/gatotv.com.epg.xml.gz"
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Series",Tlnovelas Mexico
 https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
